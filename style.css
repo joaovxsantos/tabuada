@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(231, 223, 223);
+    text-align: center;
+    
+    
+}
+
+
+#num{
+    margin: auto;
+}
+
+
+button{
+    margin-top: 1em;
+}
